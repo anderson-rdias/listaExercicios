@@ -1,0 +1,15 @@
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.exe
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.deps.json
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.runtimeconfig.json
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.dll
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.pdb
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.csproj.AssemblyReference.cache
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.AssemblyInfoInputs.cache
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.AssemblyInfo.cs
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.csproj.CoreCompileInputs.cache
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.dll
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\refint\ListaExercicios.dll
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.pdb
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.genruntimeconfig.cache
+D:\Fiap2Ano\Materias\EAD\Visual Studio\ListaExercicios\ListaExercicios\obj\Debug\net6.0\ref\ListaExercicios.dll
